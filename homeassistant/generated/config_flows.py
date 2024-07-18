@@ -125,6 +125,7 @@ FLOWS = {
         "dlink",
         "dlna_dmr",
         "dlna_dms",
+        "dmscreen",
         "dnsip",
         "doorbird",
         "dormakaba_dkey",

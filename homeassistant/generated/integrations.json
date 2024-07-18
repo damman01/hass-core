@@ -1285,6 +1285,12 @@
         }
       }
     },
+    "dmscreen": {
+      "name": "DnDBeyond DM Screen",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "cloud_polling"
+    },
     "dnsip": {
       "name": "DNS IP",
       "integration_type": "hub",
